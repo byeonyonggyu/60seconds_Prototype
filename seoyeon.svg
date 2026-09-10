@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 300" role="img" aria-label="서연, 20세 반실사 인물 초상">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#c9c8ac"/><stop offset="1" stop-color="#263735"/></linearGradient>
+ <radialGradient id="skin" cx="35%" cy="30%" r="75%"><stop stop-color="#efd0b5"/><stop offset=".55" stop-color="#dfb49b"/><stop offset="1" stop-color="#936954"/></radialGradient>
+ <linearGradient id="coat" x2="1" y2=".5"><stop stop-color="#797956"/><stop offset=".45" stop-color="#797956"/><stop offset="1" stop-color="#242e2d"/></linearGradient>
+ <linearGradient id="hair" x2=".9" y2="1"><stop stop-color="#514740"/><stop offset=".5" stop-color="#262625"/><stop offset="1" stop-color="#151d1d"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#eee1c1" stop-opacity=".3"/><stop offset="1" stop-color="#eee1c1" stop-opacity="0"/></radialGradient>
+</defs>
+<path fill="url(#bg)" d="M0 0h240v300H0z"/><ellipse cx="65" cy="82" rx="140" ry="175" fill="url(#light)"/>
+<path d="M17 0v300M29 0v300M205 0v300" stroke="#e5e5ce" opacity=".08"/>
+<path d="M65 114Q48 35 119 32Q184 31 177 122L190 208 52 207Z" fill="url(#hair)"/>
+<path d="M96 160 93 198 65 209 121 248 170 209 143 195 141 157Z" fill="url(#skin)"/>
+<path d="M96 163q25 25 47-3l-1 20q-22 16-47 0" fill="#765142" opacity=".3"/>
+<path d="M0 300 12 242Q18 216 55 208L91 193Q115 221 146 193L189 211Q225 225 229 250L240 300Z" fill="url(#coat)"/>
+<path d="M94 200 120 220 145 200 137 300 101 300Z" fill="#c7c4b4"/>
+<path d="m90 193 30 27-24 34-26-48Zm57 0-27 27 24 34 23-47Z" fill="#797956" stroke="#b8b8a0" stroke-opacity=".3"/>
+<path d="m36 236 12 64m153-62-9 62M120 224v76M55 268h36" stroke="#172322" stroke-opacity=".45" fill="none" stroke-width="2"/>
+<ellipse cx="73" cy="121" rx="9" ry="17" fill="#dfb49b"/><ellipse cx="167" cy="121" rx="9" ry="17" fill="#a67c65"/>
+<path d="M75 86Q79 50 119 50Q159 48 166 88L161 142Q157 163 139 177Q122 189 104 178Q83 166 78 141Z" fill="url(#skin)"/>
+<path d="M151 92q12 36 3 53-8 23-28 34 27-4 35-35l5-54Z" fill="#765845" opacity=".17"/>
+<path d="M84 106q13-8 26-1m20 0q13-7 25 1" stroke="#483c34" stroke-width="3" stroke-linecap="round" fill="none"/>
+<path d="M85 115q12-8 24 0-12 6-24 0m46 0q11-8 23 0-12 6-23 0" fill="#ded6c4" stroke="#735b4e" stroke-width="1.2"/>
+<g fill="#34342d"><ellipse cx="98" cy="114" rx="4" ry="4.2"/><ellipse cx="142" cy="114" rx="4" ry="4.2"/></g>
+<g fill="#f7efdf"><circle cx="97" cy="113" r="1.1"/><circle cx="141" cy="113" r="1.1"/></g>
+<path d="m119 114-5 23q6 5 12 0" stroke="#a57960" stroke-width="1.5" fill="none"/><path d="M111 140q8 4 16 0" stroke="#936954" fill="none"/>
+<path d="M104 155q7-4 15-2 8-2 16 2-15 10-31 0" fill="#a57166"/><path d="M103 155q17 2 32 0" stroke="#795348" fill="none"/><path d="M110 168q11 4 21-1" stroke="#f0c7ac" opacity=".5" fill="none"/>
+<path d="M72 102Q62 46 107 39Q159 23 173 76L168 113Q159 84 144 66Q120 91 76 87Z" fill="url(#hair)"/>
+<path d="M76 67q28-32 64-21M79 73q30-30 67-22M151 49q13 12 15 30" stroke="#b0a28c" stroke-opacity=".24" stroke-width="1.4" fill="none"/>
+<path d="M0 299h240" stroke="#d3cfb9" stroke-opacity=".4"/>
+</svg>

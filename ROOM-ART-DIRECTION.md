@@ -1,0 +1,7 @@
+# Shelter background
+
+Output: living-room.png
+Tool: built-in image_gen. Reference: seoyeon.png, visual style only.
+
+Prompt:
+Create a premium Korean dystopian visual novel environment background, wide landscape 16:9. Empty living room of a modest high-rise Korean apartment converted to a family shelter in flooded New Songdo, 2038. Refined detailed hand-painted anime background with delicate fine ink edges and sophisticated painterly material textures, matching the subdued realistic webtoon characters in the style reference. NO PEOPLE. Eye-level wide shot, full room: large rain-streaked panoramic windows on back wall overlooking desolate grey high-rise towers and storm clouds; weathered olive-grey fabric sofa toward back left, folded blanket; low wooden coffee table off to one side; canned food shelves and a few water canisters near right wall; warm tungsten table lamp and small emergency radio; worn wallpaper, books, subtle signs of long habitation. Restrained charcoal, desaturated sage, dusty brown and ivory, cold blue-grey rainy daylight contrasted with one warm amber practical lamp. Elegant moody cinematic lighting, readable midtones, atmospheric depth. Foreground lower third open and uncluttered for four character sprites added in code. No UI, no labels, no lettering, no text, no icons, no frame, no watermark. Beautiful high-quality game background illustration, not 3D, not flat vector.
